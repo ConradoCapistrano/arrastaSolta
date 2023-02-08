@@ -1,4 +1,4 @@
-# arrastaSolta Project
+# ArrastaSolta Project
 
 ## Sobre o projeto
 
